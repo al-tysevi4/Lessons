@@ -55,4 +55,7 @@ public class UserBusinessServiceImpl implements UserBusinessService {
             }
         }
     }
+    void getSomething() {
+        int i = 0;
+    }
 }
