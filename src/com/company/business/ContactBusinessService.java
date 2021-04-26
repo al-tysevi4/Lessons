@@ -8,7 +8,4 @@ public interface ContactBusinessService {
     void delete(Long id);
 
     void update(Contact contact, ContactType contactType, String value);
-
-
-
 }
